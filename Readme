@@ -1,0 +1,70 @@
+🏦 Banking Application (Console-Based Project)
+📘 Overview
+This project is a console-based Banking Application built using Core Java.
+It was developed as part of my Java revision series to strengthen fundamental programming concepts such as classes, objects, arrays, encapsulation, and user input handling.
+The application allows users to create multiple customer accounts, deposit and withdraw money, and search for specific accounts — all through an interactive command-line interface.
+
+🎯 Features
+✅ Open new bank accounts
+✅ Display all account details
+✅ Search for an account by account number
+✅ Deposit money into an account
+✅ Withdraw money with balance validation
+✅ Exit option to safely close the application
+
+🧠 Concepts Revised
+This project helped revise the following Core Java concepts:
+Classes and Objects
+Encapsulation and Data Hiding
+Constructors and Methods
+Arrays of Objects
+Conditional Statements and Loops
+Input Handling using Scanner
+Basic CRUD (Create, Read, Update, Delete) operations
+
+🧩 Technologies Used
+Language: Java (JDK 8 or above)
+IDE:Eclipse 
+Runtime: Console-based
+
+🏗️ Project Structure
+BankingApp/
+│
+├── src/com/bank/app/
+│   ├── BankDetails.java
+│   └── BankingApp.java
+│
+└── README.md
+
+▶️ How to Run
+Clone the repository:
+git clone https://github.com/your-username/Banking-Application.git
+Open the project in your preferred Java IDE.
+Run the BankingApp.java file.
+Follow the on-screen instructions to perform banking operations.
+
+🖥️ Sample Console Output
+How many number of customers do you want to input? 2
+Enter Account No: 12345
+Enter Account type: Savings
+Enter Name: Bharath
+Enter Balance: 5000
+Enter Account No: 67890
+Enter Account type: Current
+Enter Name: Kumar
+Enter Balance: 8000
+
+***Banking System Application***
+1. Display all account details 
+2. Search by Account number
+3. Deposit the amount
+4. Withdraw the amount
+5. Exit
+
+📌 Learning Outcome
+
+Through this project, I reinforced my understanding of:
+Object-oriented programming principles
+Handling user input efficiently
+Structuring a Java console-based application
+Logical thinking for real-world problem-solving..!
