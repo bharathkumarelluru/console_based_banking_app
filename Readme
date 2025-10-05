@@ -38,7 +38,7 @@ BankingApp/
 
 ▶️ How to Run
 Clone the repository:
-git clone https://github.com/your-username/Banking-Application.git
+git clone https://github.com/bharathkumarelluru/console_based_banking_app.git
 Open the project in your preferred Java IDE.
 Run the BankingApp.java file.
 Follow the on-screen instructions to perform banking operations.
